@@ -1,3 +1,6 @@
+![Certificate](Specs certificate.png)
+
+
 # Specializing in Natural Language Processing (NLP)
 
 The field of Natural Language Processing (NLP) employs algorithms to comprehend and manipulate human language, representing one of the most widely applied domains of machine learning. As artificial intelligence (AI) continues to advance, there is a growing demand for professionals with expertise in constructing models that analyze speech and language, unveil contextual patterns, and extract insights from both text and audio data. This specialization is designed to provide the latest deep learning techniques essential for developing cutting-edge NLP systems. Upon completion, participants will be equipped to design NLP applications, including those for question-answering, sentiment analysis, language translation, text summarization, and even chatbot development.
