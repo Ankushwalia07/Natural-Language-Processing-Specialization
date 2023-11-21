@@ -1,4 +1,4 @@
-![Certificate](Specs certificate.png)
+![Certificate](https://github.com/Ankushwalia07/Natural-Language-Processing-Specialization/blob/d6a69e88e5ba4ba7d02034181f135a5454b181f5/Specs%20certificate.png)
 
 
 # Specializing in Natural Language Processing (NLP)
